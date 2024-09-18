@@ -1,3 +1,4 @@
+/*Carlos Eduardo Silva Pasternack 3C 18/09/2024*/
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
